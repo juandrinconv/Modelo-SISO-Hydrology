@@ -13,3 +13,6 @@ numpy           2.2.0
 
 # 4. Información para cuando se vaya a clonar el repositorio
 Este repositorio se subió con el entorno virtual por defecto de Python, por ende, no es necesario crear por separado dicho entorno antes de clonar el repositorio, sino que simplemente, después de clonar el repositorio, se instalan todas las dependencias en el entorno virtual [ver el apartado (3)].
+
+# 5. Notas importantes
+Se agregó un archivo llamado "codigo final sensibilidad e incertidumbre.py", el cual corresponde al código realizado por Hernán (compañero de maestría). Cabe mencionar, que este código realiza análisis de sensibilidad e incertidumbre para el modelo del SISO, sin embargo y, en todo caso, para utilizar este código se recomienda revisarlo cuidadosamente y ajustarlo según las necesidades específicas que se requieran en particular.
